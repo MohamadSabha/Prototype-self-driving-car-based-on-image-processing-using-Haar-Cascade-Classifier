@@ -20,9 +20,9 @@ Our robot will act based on detected objects coming from the camera feed In real
 
 4- If the detected object is a traffic light:
 
-  • Complete moving if the light is green.
+      • Complete moving if the light is green.
   
-  • Stop till the light will change to green as long as the light is red.
+      • Stop till the light will change to green as long as the light is red.
 
 5- The robot will stop immediately if there’s an obstacle Infront of it using the infrared sensor.
 
