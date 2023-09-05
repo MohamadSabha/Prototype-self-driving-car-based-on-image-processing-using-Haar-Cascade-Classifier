@@ -1,0 +1,139 @@
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Self_Driving_Car.exe.config
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_calib3d240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_contrib240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_core240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_features2d240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_ffmpeg240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_flann240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_gpu240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_highgui240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_imgproc240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_legacy240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_ml240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_nonfree240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_objdetect240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_photo240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_stitching240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_video240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\opencv_videostab240.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Self_Driving_Car.exe
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Self_Driving_Car.pdb
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.GPU.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.ML.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.OCR.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.UI.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.Util.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\ZedGraph.dll
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.GPU.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.ML.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.OCR.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.CV.UI.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Emgu.Util.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.csprojResolveAssemblyReference.cache
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.Properties.Resources.resources
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.csproj.GenerateResource.Cache
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.exe
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.pdb
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.MainForm.resources
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.Two_Images_Matching.resources
+c:\users\mhd\documents\visual studio 2015\Projects\Self_Driving_Car\obj\Debug\Self_Driving_Car.WebCam_Matching.resources
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Self_Driving_Car.exe.config
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.exe
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.pdb
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_calib3d240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_contrib240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_core240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_features2d240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_flann240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_gpu240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_highgui240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_imgproc240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_legacy240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_ml240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_nonfree240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_objdetect240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_photo240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_stitching240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_video240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\opencv_videostab240.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Self_Driving_Car.exe
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Self_Driving_Car.pdb
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.ML.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.Util.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\ZedGraph.dll
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.ML.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Emgu.Util.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.csprojResolveAssemblyReference.cache
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.WebCam_Matching.resources
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.MainForm.resources
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.Properties.Resources.resources
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.Two_Images_Matching.resources
+C:\Users\MHD\Documents\Visual Studio 2015\Projects\Self_Driving_Car - virsion 1\obj\Debug\Self_Driving_Car.csproj.GenerateResource.Cache
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_calib3d240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_contrib240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_core240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_features2d240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_ffmpeg240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_flann240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_gpu240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_highgui240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_imgproc240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_legacy240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_ml240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_nonfree240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_objdetect240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_photo240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_stitching240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_video240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\opencv_videostab240.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Self_Driving_Car.exe.config
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Self_Driving_Car.exe
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Self_Driving_Car.pdb
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\ZedGraph.dll
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.GPU.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.ML.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.OCR.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.Stitching.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.CV.UI.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Emgu.Util.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Lego.Ev3.Desktop.pdb
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Lego.Ev3.Desktop.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.csprojResolveAssemblyReference.cache
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.WebCam_Matching.resources
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.MainForm.resources
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.Properties.Resources.resources
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.Two_Images_Matching.resources
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.csproj.GenerateResource.Cache
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.csproj.CoreCompileInputs.cache
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.exe
+L:\محاضرات\Lectures\tabouk uni\السنة الثالثة\graduation project\My graduation project 2\my graduation project\The Code\Self_Driving_Car - Copy\obj\Debug\Self_Driving_Car.pdb
